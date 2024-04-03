@@ -10,7 +10,7 @@ File fragment classification (FFC) is the task of identifying the file type give
 ![image](https://github.com/Jaden-kor/xmp/assets/116866770/0d0b8b98-381d-4916-a96d-543765e577e9)
 
 ## Contribution
-- the \textbf{first Transformer encoder-based architecture} for file fragment classification with aims to reduce inductive bias and benefit from abundant training data,
+- the **first proper Transformer encoder-based architecture** for file fragment classification with aims to reduce inductive bias and benefit from abundant training data,
 
 - integration of CNN-based feature extraction for byte $n$-gram value embeddings, multi-scale features and Performer approximation of the vanilla Transformer to yield XMP and set new benchmarks on almost all FFT-75 scenarios, and
 
