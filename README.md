@@ -15,3 +15,17 @@ File fragment classification (FFC) is the task of identifying the file type give
 - integration of CNN-based feature extraction for byte $n$-gram value embeddings, multi-scale features and Performer approximation of the vanilla Transformer to yield XMP and set new benchmarks on almost all FFT-75 scenarios, and
 
 - ablation study of components proposed as part of XMP demonstrating the usefulness of each module.
+
+
+## Citation
+[Summarize your findings and discuss their implications for future research.]
+````
+@inproceedings{park2024xmp,
+  title={XMP: A Cross-Attention Multi-Scale Performer for File Fragment Classification},
+  author={Park, Jeong Gyu and Liu, Sisung and Hong, Je Hyeong},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={4505--4509},
+  year={2024},
+  organization={IEEE}
+}
+````
