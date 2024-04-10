@@ -1,4 +1,4 @@
-# XMP: A CROSS-ATTENTION MULTI-SCALE PERFORMER FOR FILE FRAGMENT CLASSIFICATION
+![image](https://github.com/Jaden-kor/xmp/assets/116866770/f36836ef-ff13-458e-9ff4-ec890cedd6b6)# XMP: A CROSS-ATTENTION MULTI-SCALE PERFORMER FOR FILE FRAGMENT CLASSIFICATION
 
 Official Pytorch implementation of [XMP: A CROSS-ATTENTION MULTI-SCALE PERFORMER FOR FILE FRAGMENT CLASSIFICATION](https://ieeexplore.ieee.org/abstract/document/10447626?casa_token=fJRE5tpvjKwAAAAA:66uZKJffkVsswFwzmB6UEA0GSd4cWcFXlzHRT5GQ_iUnZYB8hlrPNWUzwUqUEEw17Js-queQoTo) accepted in ICASSP 2024.
 
@@ -29,3 +29,8 @@ File fragment classification (FFC) is the task of identifying the file type give
   organization={IEEE}
 }
 ````
+## License
+A patent application for XMP has been submitted and is under review for registration. XMP is licensed under the CC-BY-NC-SA-4.0 license limiting any commercial use.
+
+## Acknowledgement
+This work was supported by the Korea Research Institute for defense Technology planning and advancement (KRIT) grant funded by the Korea government (DAPA (Defense Acquisition Program Administration)) (No. KRIT-CT-22-021, Space Signal Intelligence Research Laboratory, 2022).
