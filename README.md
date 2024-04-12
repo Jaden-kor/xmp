@@ -33,6 +33,9 @@ This code has been tested with Ubuntu 20.04, A100 GPUs with CUDA 12.2, Python 3.
 
 Earlier versions may also work~ :)
 
+## 🏃 How to run our code!
+
+
 ## Citation
 [Summarize your findings and discuss their implications for future research.]
 ````
