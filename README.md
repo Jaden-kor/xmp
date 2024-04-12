@@ -34,10 +34,16 @@ This code has been tested with Ubuntu 20.04, A100 GPUs with CUDA 12.2, Python 3.
 Earlier versions may also work~ :)
 
 ## 🏃 How to run our code!
+To run our code, use the following command template, adjusting the hyperparameters as needed based on the scenario and dataset size. We have conducted extensive hyperparameter tuning for different scenarios and dataset sizes to ensure optimal performance. The details of these configurations are documented in the comments within the code.
+
+Example command:
+````
+python train.py -scen 1 -size 512 -name XMP_scen1_512 -gpu 0 -emb_dim 128 -depth 3 -sm_cnn_size 11 -sm_dim 256 -sm_token_size 4 -lg_cnn_size 11 -lg_dim 512 -lg_token_size 16
+````
+
 
 
 ## Citation
-[Summarize your findings and discuss their implications for future research.]
 ````
 @inproceedings{park2024xmp,
   title={XMP: A Cross-Attention Multi-Scale Performer for File Fragment Classification},
