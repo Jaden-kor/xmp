@@ -16,6 +16,22 @@ File fragment classification (FFC) is the task of identifying the file type give
 
 - ablation study of components proposed as part of XMP demonstrating the usefulness of each module.
 
+## Prerequisites:
+````
+python=3.8
+torch==1.10.0+cu111
+torchvision==0.11.0+cu111
+torchaudio==0.10.0
+pytorch-fast-transformers
+performer-pytorch
+vit-pytorch
+pykernel
+wandb
+tqdm
+````
+This code has been tested with Ubuntu 20.04, A100 GPUs with CUDA 12.2, Python 3.8, Pytorch 1.10.
+
+Earlier versions may also work~ :)
 
 ## Citation
 [Summarize your findings and discuss their implications for future research.]
